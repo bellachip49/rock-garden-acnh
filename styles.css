@@ -1,3 +1,7 @@
+html {
+-webkit-text-size-adjust: none;
+}
+
 body{
   background-color: #f9f7f7;
 }
